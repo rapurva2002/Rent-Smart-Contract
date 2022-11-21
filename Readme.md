@@ -2,8 +2,9 @@ A smart contract is a computer program or a transaction protocol that is intende
 
 This is a smart contract to help with Rent Management. The functionalities include creating accounts, booking rooms, checking availability among others. 
 
-To run the code 
+Running the code 
 
 Instead of running the file locally, we are making use of Remix IDE. 
+
 https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
 
